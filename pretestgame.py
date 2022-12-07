@@ -13,7 +13,8 @@
 #madlib = f"computer programming is so {adj}! It makes me so excited all the time because \
 #i love to {verb1}. stay hydrated and {verb2} like you are {famous_person}!"  
 name = input("name :")
-print (f"you name is {name}!")
+print ("you name is : "+ name)
+
 
 
 
